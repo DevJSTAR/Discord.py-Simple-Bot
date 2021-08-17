@@ -36,13 +36,13 @@ You can change it in `main.py` file line `6` at
 
 17) Select **HTTP(s)** type in monitor type
 
-18) Add a Friendly named
+18) Add a Friendly name
 
 19) Paste the **URL** that you copied from **Repl.it/Replit.com** in **URL (or IP)** section
 
 20) Set the **Monitoring Interval** minutes to **32**
 
-21) Tick **Alert Contact** so if the monitor goes down or up you will get an alert email/gmail
+21) Tick **Alert Contact** so if the monitor goes down or up you will get an alert mail
 
 22) Now press **Create Monitor** (it will take a few seconds)
 
@@ -53,3 +53,5 @@ You can change it in `main.py` file line `6` at
 25) **STOP** and **RUN** your repl again
 
 26) Now you can close the tab and the bot will be online 24/7
+
+27) Enjoy with your new bot! if you have any issues, then join our **[Support Server](https://dsc.gg/wikis/)** and report it. you will get awesome, advanced and cool **[BDFD](https://botdesignerdiscord.com/)/[DISCORD.py](https://www.python.org/)/[DISCORD.js](https://discord.js.org/)** Codes!
